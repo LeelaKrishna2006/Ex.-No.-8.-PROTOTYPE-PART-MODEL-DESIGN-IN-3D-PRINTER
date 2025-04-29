@@ -49,8 +49,8 @@
 ![Screenshot 2025-04-24 114759](https://github.com/user-attachments/assets/987ff2e9-5a7f-4710-b262-bc20df548690)
 ![Screenshot 2025-04-24 114846](https://github.com/user-attachments/assets/603aa45e-0170-4d8d-bc42-6c78b8ae1716)
 
-### Name:Paladi venkatesh vignesh
-### Register Number:212224040229
+### Name:ARANI VENKATA SUNDARA LEELA KRISHNA
+### Register Number:2122424001388
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
